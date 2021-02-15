@@ -3,7 +3,6 @@ author: jassoncordones
 email: jasson.cordones@hotmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a test blog made from a github learning lab course.
-theme: minima
 
 # social links
 twitter_username: jassoncordones # DO NOT include the @ character, or else the build will fail!
